@@ -10,3 +10,7 @@
 div#wall div#tag-3.slick, .wicked {
   display: none;
 }
+
+div.parent div#tag-4 {
+  display: none;
+}
